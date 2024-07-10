@@ -6,3 +6,5 @@ Fixed some bugs again.
 Add more things
 
 Clean start to learn merging.
+
+Play my game.
