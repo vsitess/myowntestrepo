@@ -4,3 +4,5 @@ Adding more content
 
 Fixed some bugs again.
 Add more things
+
+Clean start to learn merging.

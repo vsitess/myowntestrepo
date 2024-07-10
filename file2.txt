@@ -4,3 +4,5 @@ Name : Jordan Peterson
 
 
 Adding more stuff
+
+Clean start to learn merging
